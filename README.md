@@ -1,6 +1,6 @@
-# Frontend Mentor - Tip calculator app solution
+#  Tip calculator app solution
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Tip calculator app challenge ](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). it help me improve my coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -36,9 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/SoniBasant/Frontend-Mentor-Projects/tree/main/B5-Tip-Calculator-App)
+- Solution URL: [Source Code](https://github.com/rishabhyadav69387-svg/Tip_Calculator)
 
-- Live Site URL: [Live Link](https://sonibasant.github.io/Frontend-Mentor-Projects/B5-Tip-Calculator-App/index.html)
+- Live Site URL: [Live Link](https://github.com/rishabhyadav69387-svg/Tip_Calculator/index.html)
 
 ## My process
 
@@ -81,10 +81,7 @@ For **Firefox**
 
 ## Author
 
-Basant Soni 👨‍💻
+Rishabh yadav 👨‍💻
 
-- GitHub - [@SoniBasant](https://github.com/SoniBasant)
+- GitHub - [@Rishabh yadav](https://github.com/rishabhyadav69387-svg)
 
-- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
-- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
-- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
